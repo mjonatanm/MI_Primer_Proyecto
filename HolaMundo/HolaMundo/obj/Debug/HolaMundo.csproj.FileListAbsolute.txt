@@ -5,3 +5,10 @@ C:\Users\Jonatan\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojAsse
 C:\Users\Jonatan\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
 C:\Users\Jonatan\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
 C:\Users\Jonatan\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
+C:\Users\Jony\Documents\GitHub\MI_Primer_Proyecto\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\Jony\Documents\GitHub\MI_Primer_Proyecto\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\Jony\Documents\GitHub\MI_Primer_Proyecto\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\Jony\Documents\GitHub\MI_Primer_Proyecto\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojAssemblyReference.cache
+C:\Users\Jony\Documents\GitHub\MI_Primer_Proyecto\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Jony\Documents\GitHub\MI_Primer_Proyecto\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\Jony\Documents\GitHub\MI_Primer_Proyecto\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
